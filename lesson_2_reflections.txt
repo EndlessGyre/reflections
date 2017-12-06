@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The table is set. Won't you come and commit with me? Please? 
+Yes, you need to do it. Your world depends on it. 
