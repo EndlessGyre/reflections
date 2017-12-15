@@ -3,3 +3,11 @@ No, never mind.
 I have a pencil after all.
 Do you maybe know the way to the zoo?
 I have a pencil but no zoo.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+For the same reason you want to commit manually when just workign within Git along. Also, teamwork.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Have I ever told you about the time I fell out of a tree? No, that wasn't me. That was my clone. I sat on a fork. Now I remember. 
